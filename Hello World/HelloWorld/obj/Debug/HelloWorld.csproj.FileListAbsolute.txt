@@ -1,0 +1,7 @@
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
