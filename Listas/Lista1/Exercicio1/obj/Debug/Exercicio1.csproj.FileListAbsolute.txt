@@ -1,0 +1,6 @@
+C:\Users\luciz\Desktop\Lista\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\luciz\Desktop\Lista\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\luciz\Desktop\Lista\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\luciz\Desktop\Lista\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\luciz\Desktop\Lista\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\luciz\Desktop\Lista\Exercicio1\obj\Debug\Exercicio1.pdb

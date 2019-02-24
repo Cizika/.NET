@@ -1,0 +1,7 @@
+C:\Users\luciz\Desktop\Lista\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\luciz\Desktop\Lista\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\luciz\Desktop\Lista\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\luciz\Desktop\Lista\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+C:\Users\luciz\Desktop\Lista\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\luciz\Desktop\Lista\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\luciz\Desktop\Lista\Exercicio4\obj\Debug\Exercicio4.pdb

@@ -1,0 +1,14 @@
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\bin\Debug\Lista.exe.config
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\bin\Debug\Lista.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\bin\Debug\Lista.pdb
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\obj\Debug\Lista.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\Lista\obj\Debug\Lista.pdb
+C:\Users\luciz\Desktop\Lista\bin\Debug\Lista.exe.config
+C:\Users\luciz\Desktop\Lista\bin\Debug\Lista.exe
+C:\Users\luciz\Desktop\Lista\bin\Debug\Lista.pdb
+C:\Users\luciz\Desktop\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\luciz\Desktop\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\luciz\Desktop\Lista\obj\Debug\Lista.exe
+C:\Users\luciz\Desktop\Lista\obj\Debug\Lista.pdb
