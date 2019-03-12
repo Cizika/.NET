@@ -1,0 +1,7 @@
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\bin\Debug\Lista3.exe.config
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\bin\Debug\Lista3.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\bin\Debug\Lista3.pdb
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\obj\Debug\Lista3.csprojAssemblyReference.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\obj\Debug\Lista3.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\obj\Debug\Lista3.exe
+D:\ARQUIVOS DOS ALUNOS\Ciziks\.NET\Listas\Lista3\Lista3\obj\Debug\Lista3.pdb
